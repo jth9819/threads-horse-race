@@ -1,5 +1,5 @@
 # Horse Race
-A horse race simulation using threads and reentrant locks
+A horse race simulation using threads and reentrant locks.
 
 ## Background
 This program was written as project 3 in my Advanced Computer Programming Course in my Fall 2021 semester.
