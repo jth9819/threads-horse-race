@@ -4,4 +4,4 @@ This program was written for a project in my Advanced Computer Programming Cours
 # Installation and Execution
 * Clone repo to local machine
 * Import project in Eclipse as "Existing Maven Projects" under Maven
-* Run App.java (harrisonj -> src/main/java -> uwf.harrisonj -> App.java)
+* **Run App.java** (harrisonj -> src/main/java -> uwf.harrisonj -> App.java)
